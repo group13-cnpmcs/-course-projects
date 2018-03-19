@@ -1,0 +1,8 @@
+Introduce project and group member
+Project name: Application base on big event
+Tools: github, gitlab, android studio, google trend api (java), google data analyze
+Group member:
+	Danh Thanh      StudentID:15520798 (LEADER)
+	Tran Tan Phat   StudentID:15520607
+    Chau Van Sang   StudentID:15520717
+    Phan Ngoc Thinh StudentID:15520846
